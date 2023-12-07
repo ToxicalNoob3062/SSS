@@ -1,4 +1,4 @@
-# 🚀 Sort Scroll & Search (Computer Graphics!) 🚀
+# 🚀 Sort, Scroll & Search (Computer Graphics!) 🚀
 
 This project is a comprehensive showcase of various computer graphics techniques and algorithms, implemented in a user-friendly and interactive manner. It's a great resource for anyone looking to understand these concepts in a practical, visual way.
 
